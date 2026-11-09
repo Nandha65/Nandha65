@@ -2,7 +2,7 @@
 
 I build developer tools and local-first AI: VS Code themes that make long coding sessions kinder on the eyes, and RAG assistants that keep your documents on your own machine.
 
-🌐 [nandha.coolpage.biz](https://nandha.coolpage.biz) · 💼 [LinkedIn](https://www.linkedin.com/in/nandhakumarmv)
+🌐 [nandhakumar-mv.web.app](https://nandhakumar-mv.web.app) · 💼 [LinkedIn](https://www.linkedin.com/in/nandhakumarmv)
 
 ## 🚀 Projects
 
